@@ -16,3 +16,4 @@ const render = async filename => {
       });
     });
   };
+  module.exports(render)
