@@ -55,4 +55,5 @@ class Runner {
     }
   }
 }
-module.exports(Runner)
+
+module.exports = Runner;
